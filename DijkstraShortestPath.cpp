@@ -5,7 +5,7 @@
 #include <limits>
 using namespace std;
 
-#define MAXV 1000
+#define MAXV 1010
 
 class EdgeNode{
     public:
